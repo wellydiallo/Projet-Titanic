@@ -3,7 +3,10 @@
 Ce projet a pour but de prédire la survie des passagers du Titanic à l'aide d'algorithmes de machine learning.
 
 ## 📊 Données utilisées
-- Dataset public Titanic (Kaggle)
+- Ce projet utilise le dataset Titanic, disponible publiquement sur Kaggle :
+[https://www.kaggle.com/c/titanic/data](https://www.kaggle.com/c/titanic/data)
+Pour exécuter le notebook, placez le fichier `titanic.csv` dans le même dossier.
+
 - Variables : âge, sexe, classe, etc.
 
 ## 🔧 Outils & technologies
