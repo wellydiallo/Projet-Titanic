@@ -31,3 +31,5 @@ Pour exécuter le notebook, placez le fichier `titanic.csv` dans le même dossie
 ## 📁 Auteur
 Welly Diallo – Licence Sciences et ingénierie des donneées
 Future étudiante en Mastère IA & Big Data à l'ESGI
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_wellydiallo.Projet-Titanic)
